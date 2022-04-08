@@ -5,9 +5,13 @@ header {
   color: #e8e8e8;
   text-align: center;
 }
+#score {
+  text-align: center;
+  padding: 0 0 4% 0;
+}
 .back-page {
   max-width: 560px;
-  padding: 8% 0 0;
+  padding: 4% 0 0;
   margin: auto;
 }
 .form {
