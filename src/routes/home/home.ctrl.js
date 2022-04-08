@@ -9,6 +9,6 @@ const output = {
   }
 };
 
-module.exports = {
+module.exports = {  
     output,
 };
